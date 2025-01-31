@@ -1,3 +1,4 @@
 [submodule "libnmea"]
 	path = libnmea
-	url = https://github.com/jacketizer/libnmea
+	url = git@github.com:MichaelEFlip/libnmea.git
+	branch = extension
